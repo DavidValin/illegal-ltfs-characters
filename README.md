@@ -10,6 +10,3 @@ so that folder content can be transferred to a LTO tape using LTFS
 
 ### How to use it:
 `$ replace_forbidden_chars.sh <entrypoint_folder>`
-
-#### Notes:
-only `"` and `\` characters have to be scaped in the context of filenames
